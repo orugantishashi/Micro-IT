@@ -7,7 +7,7 @@ A simple calculator built using:
 HTML
 CSS
 JavaScript
-Features:
+#### Features:
 Basic arithmetic operations
 Responsive layout
 Clean UI
@@ -17,12 +17,12 @@ A simple quiz game built using:
 HTML
 CSS
 JavaScript
-Features:
-
-### 3 Multiple-choice questions
+#### Features:
+Multiple-choice questions
 Score tracking
 Interactive UI
- Skills Used
+
+### Skills Used
 HTML
 CSS
 JavaScript
